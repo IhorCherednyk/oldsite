@@ -1,0 +1,83 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.carousel-ind{
+		margin-left: -18%;
+		height: 170px;
+		width: 225px;
+		padding: 5px;
+		text-align: center;
+	}
+	.footer a + a {
+    margin-left: 0px;
+	}
+	.carousel-ind span {font-size: 19px;margin-bottom: 6px;}
+	.carousel-item-middle a img {width:100%;}
+	.navbar-form {float:right;padding:0 10px 0 0}
+	.overlay-item .comunity {left:50%;margin-left: -108px;}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	.carousel-ind{margin-left:-112px;}
+	.carousel-control{width:48px;}
+	.footer a {display:block;}
+	.navbar-nav > li > a {padding: 0 10px;}
+	.navbar-form .form-control {float: right;width: 80%;}
+	a.logo {font-size: 32px;}
+	.overlay-item .comunity {left:1%;margin-left: 0;}
+	.overlay-item .comunity a {display:block;padding: 25px 5px 5px 5px;}
+	.overlay-item .comunity a:nth-child(1) {
+    background-position: 6px 7px;
+	}
+	.overlay-item .comunity a:nth-child(2) {
+    background-position: 6px -157px;
+	}
+	.overlay-item .comunity a:nth-child(3) {
+    background-position: 6px -279px;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

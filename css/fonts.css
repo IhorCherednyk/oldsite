@@ -1,0 +1,55 @@
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+    font-family: "ChunkFive";
+    src: url("../fonts/ChunkFive/chunkfive-webfont.eot");
+    src: url("../fonts/ChunkFive/chunkfive-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/ChunkFive/chunkfive-webfont.woff2") format("woff2"),
+         url("../fonts/ChunkFive/chunkfive-webfont.woff") format("woff"),
+         url("../fonts/ChunkFive/chunkfive-webfont.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: "helveticaBold";
+    src: url("../fonts/Helvetica/helvetica_ce_bold-webfont.eot");
+    src: url("../fonts/Helvetica/helvetica_ce_bold-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/Helvetica/helvetica_ce_bold-webfont.woff2") format("woff2"),
+         url("../fonts/Helvetica/helvetica_ce_bold-webfont.woff") format("woff"),
+         url("../fonts/Helvetica/helvetica_ce_bold-webfont.ttf") format("truetype");   
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "helveticaReg";
+    src: url("../fonts/Helvetica/helvetica_ce_regular-webfont.eot");
+    src: url("../fonts/Helvetica/helvetica_ce_regular-webfont.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/Helvetica/helvetica_ce_regular-webfont.woff2") format("woff2"),
+         url("../fonts/Helvetica/helvetica_ce_regular-webfont.woff") format("woff"),
+         url("../fonts/Helvetica/helvetica_ce_regular-webfont.ttf") format("truetype");   
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'helveticaLight';
+    src: url('../fonts/Helveticalight/helveticaneuecyr-light-webfont.eot');
+    src: url('../fonts/Helveticalight/helveticaneuecyr-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Helveticalight/helveticaneuecyr-light-webfont.woff2') format('woff2'),
+         url('../fonts/Helveticalight/helveticaneuecyr-light-webfont.woff') format('woff'),
+         url('../fonts/Helveticalight/helveticaneuecyr-light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
